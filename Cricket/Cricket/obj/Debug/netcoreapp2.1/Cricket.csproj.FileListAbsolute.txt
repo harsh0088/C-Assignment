@@ -1,0 +1,14 @@
+D:\C# files\Cricket\Cricket\bin\Debug\netcoreapp2.1\Cricket.deps.json
+D:\C# files\Cricket\Cricket\bin\Debug\netcoreapp2.1\Cricket.runtimeconfig.json
+D:\C# files\Cricket\Cricket\bin\Debug\netcoreapp2.1\Cricket.runtimeconfig.dev.json
+D:\C# files\Cricket\Cricket\bin\Debug\netcoreapp2.1\Cricket.dll
+D:\C# files\Cricket\Cricket\bin\Debug\netcoreapp2.1\Cricket.pdb
+D:\C# files\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.csproj.CoreCompileInputs.cache
+D:\C# files\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.RazorAssemblyInfo.cache
+D:\C# files\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.RazorAssemblyInfo.cs
+D:\C# files\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.AssemblyInfoInputs.cache
+D:\C# files\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.AssemblyInfo.cs
+D:\C# files\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.RazorTargetAssemblyInfo.cache
+D:\C# files\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.dll
+D:\C# files\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.pdb
+D:\C# files\Cricket\Cricket\obj\Debug\netcoreapp2.1\Cricket.csprojAssemblyReference.cache
